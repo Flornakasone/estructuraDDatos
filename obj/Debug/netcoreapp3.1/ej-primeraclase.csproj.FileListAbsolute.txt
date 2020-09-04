@@ -1,0 +1,12 @@
+/Users/flornakasone/Desktop/ed/ej-primeraclase/bin/Debug/netcoreapp3.1/ej-primeraclase.deps.json
+/Users/flornakasone/Desktop/ed/ej-primeraclase/bin/Debug/netcoreapp3.1/ej-primeraclase.runtimeconfig.json
+/Users/flornakasone/Desktop/ed/ej-primeraclase/bin/Debug/netcoreapp3.1/ej-primeraclase.runtimeconfig.dev.json
+/Users/flornakasone/Desktop/ed/ej-primeraclase/bin/Debug/netcoreapp3.1/ej-primeraclase.dll
+/Users/flornakasone/Desktop/ed/ej-primeraclase/bin/Debug/netcoreapp3.1/ej-primeraclase.pdb
+/Users/flornakasone/Desktop/ed/ej-primeraclase/obj/Debug/netcoreapp3.1/ej-primeraclase.csprojAssemblyReference.cache
+/Users/flornakasone/Desktop/ed/ej-primeraclase/obj/Debug/netcoreapp3.1/ej-primeraclase.AssemblyInfoInputs.cache
+/Users/flornakasone/Desktop/ed/ej-primeraclase/obj/Debug/netcoreapp3.1/ej-primeraclase.AssemblyInfo.cs
+/Users/flornakasone/Desktop/ed/ej-primeraclase/obj/Debug/netcoreapp3.1/ej-primeraclase.csproj.CoreCompileInputs.cache
+/Users/flornakasone/Desktop/ed/ej-primeraclase/obj/Debug/netcoreapp3.1/ej-primeraclase.dll
+/Users/flornakasone/Desktop/ed/ej-primeraclase/obj/Debug/netcoreapp3.1/ej-primeraclase.pdb
+/Users/flornakasone/Desktop/ed/ej-primeraclase/obj/Debug/netcoreapp3.1/ej-primeraclase.genruntimeconfig.cache
